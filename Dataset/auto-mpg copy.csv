@@ -1,0 +1,6 @@
+mpg,cylinders,displacement,horsepower,weight,acceleration,model year,origin,car name
+1.0,1.0,0.8771,0.8125,0.9488,1.0,1.0,1,chevrolet chevelle malibu
+0.8333,1.0,1.0,1.0,1.0,0.95,1.0,1,buick skylark 320
+1.0,1.0,0.9086,0.9091,0.9304,0.9,1.0,1,plymouth satellite
+0.8889,1.0,0.8686,0.9091,0.9296,1.0,1.0,1,amc rebel sst
+0.9444,1.0,0.8629,0.8485,0.9339,8.5,1.0,1,ford torino
